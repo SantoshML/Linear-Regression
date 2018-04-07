@@ -1,6 +1,6 @@
 # Linear-Regression
 
-#Building Multiple linear regression using mtcars dataset
+#Building Multiple linear regression on mtcars dataset using R
 #Model Building
 #Model diagnostics
 we use mtcars dataset which is a dataset that was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models). Below is a brief description of the variables in the data set:
